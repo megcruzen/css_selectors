@@ -22,7 +22,7 @@ a .disabled, a.disabled {
 .parent div div:first-child {
     color: red;
 }
-.parent div div:last-child {
+.parent div div:last-of-type {
     color: blue;
 }
 
